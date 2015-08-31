@@ -129,7 +129,7 @@ When writing any initializer that is not the default initializer `init`, it is c
 
 So, assuming a custom class `FISWarship`:
 
-```obj
+```objc
 // FISWarship.h
 
 #import <Foundation/Foundation.h>
@@ -259,7 +259,7 @@ Every class in Objective-C has a public default initializer method (`init`) that
 
 Because the default initializer is already publicly available, it's actually not *necessary* to publicly declare the default initializer in the `.h` header file when overriding it. However, it is considered best practice to do so as a sign to other developers that default initializer *has* been overridden, and it's best to organize it as the first method listed in the initializer group. In the context of our `FISWarship` class, this would look like this:
 
-```obj
+```objc
 // FISWarship.h
 
 #import <Foundation/Foundation.h>
