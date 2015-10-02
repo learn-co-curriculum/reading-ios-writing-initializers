@@ -112,7 +112,7 @@ This will also print:
 ```
 But *internally*, all of these initialization routes *must* pass through a designated initializer at some point; other initializers that are not defined as designated initializers *must* pass through a designated initializer. This is a way that the compiler helps to ensure that the instance will be functional at run time.
 
-**Note:** *While this is not strictly enforced by Objective-C itself, it is considered best practice—especially when writing Objective-C that will interface with anything written Swift which does hold strict rules about designated initializers.*
+**Note:** *While this is not strictly enforced by Objective-C itself, it is considered best practice—especially when writing Objective-C that will interface with anything written in Swift which does hold strict rules about designated initializers.*
 
 ### Declaring the Designated Initializer
 
