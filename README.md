@@ -419,3 +419,5 @@ This will print:
 USS New Jersey - Speed: 0 - Max: 20
 USS Wisconsin - Speed: 0 - Max: 33
 ```
+
+<a href='https://learn.co/lessons/reading-ios-writing-initializers' data-visibility='hidden'>View this lesson on Learn.co</a>
