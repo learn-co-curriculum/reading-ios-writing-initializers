@@ -420,4 +420,4 @@ USS New Jersey - Speed: 0 - Max: 20
 USS Wisconsin - Speed: 0 - Max: 33
 ```
 
-<a href='https://learn.co/lessons/reading-ios-writing-initializers' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/reading-ios-writing-initializers' title='Writing Initializers'>Writing Initializers</a> on Learn.co and start learning to code for free.</p>
